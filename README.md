@@ -8,8 +8,7 @@ Greetings! As a dedicated Information Technology student, I am passionate about 
 
 - **Bachelor of Science in Information Technology** 
 
-  - *New Era University*
-  - *2021-Present*
+  - *New Era University* - 2021-Present
 
 ## Certification 🥇
 
@@ -18,7 +17,7 @@ Greetings! As a dedicated Information Technology student, I am passionate about 
 - **Oracle Cloud Infrastructure 2023 Certified Foundations Associate** [View Certification](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ED8D2436047EAEAABACCD713C5A0E735A20EE52977DCF254ADC85198CA5B4924&fbclid=IwAR0FqwdhCw-zKlpn_3442y0kjKK-fIOTlnl2kHPVU1S7KZfsB8Vh8xgzZRU)
 - **SQL and Relational Databases 101** [View Certification](https://courses.cognitiveclass.ai/certificates/5eb78e33c8144d3ca5cf3f572cafe743)
 
-## Skill 💻
+## Skill Sets💻
 
 - **Programming:** Java, JavaScript
 - **Databases:** IBM DB2 Cloud
@@ -26,5 +25,5 @@ Greetings! As a dedicated Information Technology student, I am passionate about 
 
 ## Contact Information 📧
 
-- **LinkedIn:** Nathania Taoingan (https://www.linkedin.com/in/nathania-taoingan-69729a29a/)
+- **LinkedIn:** Click here to view my site: [[Nathania Taoingan ](https://www.linkedin.com/in/nathania-taoingan-69729a29a/)]
 - **Email:** taoingannathania12604@gmail.com
