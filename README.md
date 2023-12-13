@@ -4,9 +4,9 @@
 
 Greetings! As a dedicated Information Technology student, I am passionate about navigating the ever-evolving landscape of technology. I am enthusiastic about exploring the realms of artificial intelligence, cybersecurity, and data science. My goal is not only to absorb knowledge but also to actively contribute to the digital transformation happening around us.
 
-## Education
+## Education :book:
 
-- **BS Information Technology** ![1f3eb](https://github.com/NathaniaTaoingan/NathaniaTaoingan/assets/143993729/d5098755-12fe-4530-9466-247178333498)
+- **BS Information Technology** 
 
   - *New Era University*
   - *2021-Present*
