@@ -1,6 +1,6 @@
 # Nathania Taoingan
 
-## About Me
+## About Me 👧
 
 Greetings! As a dedicated Information Technology student, I am passionate about navigating the ever-evolving landscape of technology. I am enthusiastic about exploring the realms of artificial intelligence, cybersecurity, and data science. My goal is not only to absorb knowledge but also to actively contribute to the digital transformation happening around us.
 
@@ -25,5 +25,5 @@ Greetings! As a dedicated Information Technology student, I am passionate about 
 
 ## Contact Information 📧
 
-- **LinkedIn:** Click here to view my site: [[Nathania Taoingan ](https://www.linkedin.com/in/nathania-taoingan-69729a29a/)]
+- **LinkedIn:** #######Click here to view my site: [Nathania Taoingan (https://www.linkedin.com/in/nathania-taoingan-69729a29a/)]
 - **Email:** taoingannathania12604@gmail.com
