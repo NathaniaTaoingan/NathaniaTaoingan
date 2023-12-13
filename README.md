@@ -25,5 +25,5 @@ Greetings! As a dedicated Information Technology student, I am passionate about 
 
 ## Contact Information 📧
 
-- **LinkedIn:** Click [here] to view my site (https://www.linkedin.com/in/nathania-taoingan-69729a29a/)
+- **LinkedIn:** Click [here] (https://www.linkedin.com/in/nathania-taoingan-69729a29a/) to view my site 
 - **Email:** taoingannathania12604@gmail.com
