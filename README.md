@@ -1,16 +1,29 @@
-### Hi there 👋
+# Nathania Taoingan
 
-<!--
-**NathaniaTaoingan/NathaniaTaoingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Greetings! As a dedicated Information Technology student, I am passionate about navigating the ever-evolving landscape of technology. I am enthusiastic about exploring the realms of artificial intelligence, cybersecurity, and data science. My goal is not only to absorb knowledge but also to actively contribute to the digital transformation happening around us.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- **BS Information Technology**
+  - *New Era University*
+  - *2021-Present*
+
+## Certification
+
+- **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
+- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+- **SQL and Relational Databases 101**
+
+## Skill Sets
+
+- **Programming:** Java, JavaScript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Contact Information
+
+- **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
+- **Email:** juandelacruz@gmail.com
