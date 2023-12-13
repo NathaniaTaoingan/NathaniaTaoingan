@@ -15,7 +15,11 @@ Greetings! As a dedicated Information Technology student, I am passionate about 
 - **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
 - **Oracle Cloud Data Management 2023 Certified Foundations Associate**
 - **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
-- **SQL and Relational Databases 101**
+- **SQL and Relational Databases 101**  [View Certification ]([LinkedIn_Profile_Link](https://courses.cognitiveclass.ai/certificates/5eb78e33c8144d3ca5cf3f572cafe743
+
+Submission comments	
+Comments (0)
+))
 
 ## Skill Sets
 
@@ -25,5 +29,5 @@ Greetings! As a dedicated Information Technology student, I am passionate about 
 
 ## Contact Information
 
-- **LinkedIn:** [Nathania Taoingan (https://www.linkedin.com/in/nathania-taoingan-69729a29a/)]
+- **LinkedIn:** Nathania Taoingan (https://www.linkedin.com/in/nathania-taoingan-69729a29a/)
 - **Email:** taoingannathania12604@gmail.com
